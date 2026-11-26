@@ -1,0 +1,9 @@
+{
+  "name": "thecitationagency-com",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "nodemailer": "^10.6.1",
+    "stripe": "^21.0.0"
+  }
+}

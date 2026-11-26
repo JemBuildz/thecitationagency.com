@@ -1,0 +1,17 @@
+# The Citation Agency
+
+> The Citation Agency is a digital marketing agency based in the Phoenix East Valley (San Tan Valley & Queen Creek, AZ) that operates hyper-local service directories and builds mobile-first, search-ready websites and public visibility audits for local service businesses—with zero monthly retainers and zero Google login required.
+> Main site: https://thecitationagency.com/
+> Contact: contact@thecitationagency.com
+
+## Flagship Local Directory
+- **San Tan Valley Pros** (`https://santanvalleypros.thecitationagency.com/`): Independent local service directory covering the Town of San Tan Valley & Queen Creek, AZ (ZIPs 85140–85144) — 96 local businesses in the East Valley registry (18,530+ public Google reviews) with 10 featured live interactive website previews.
+
+## One-Time Services (Zero Retainers · Zero Google Login Required)
+- **Track A — AI Search-Ready Local Website ($300 one-time):** Completed mobile-first local service website package (services, local ZIP coverage, customer FAQ, quote form, and matching LocalBusiness JSON-LD) delivered within 48 hours of detail approval with 1 revision round included. Self-service handoff: client retains 100% ownership of website files, hosting account, and domain (ready for Netlify, Cloudflare Pages, or any preferred host). Optional hands-on deployment & domain setup assistance available for a small separate fee.
+- **Track B — Written Public Visibility Check ($19 one-time):** Deterministic 10-point live technical audit & copy-paste fix pack (HTTPS redirects, crawler access, LocalBusiness schema parity, titles, phone links, and local ZIP signals) formatted for your web person or hosting provider.
+- **Optional 1-on-1 Setup & Walkthrough Session ($149 one-time):** Live 30-minute screen-share session with you or your web/IT person for guided Netlify/Cloudflare Pages deployment, DNS setup, or live visibility fix walkthrough (zero passwords handed over).
+
+## Positioning Boundaries
+- The Citation Agency does not control Google, ChatGPT, Claude, Gemini, or Perplexity and never guarantees rankings, AI recommendations, or lead counts.
+- Delivery is 100% front-end and structured-data focused; we never ask for a client's Google Business Profile password or admin login.
